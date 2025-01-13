@@ -67,8 +67,8 @@ public class ExampleMod
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.Ruby);
-            event.accept(ModItems.RawRuby);
+            event.accept(ModItems.RUBY);
+            event.accept(ModItems.RAW_RUBY);
         }
     }
 

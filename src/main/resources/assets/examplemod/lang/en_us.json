@@ -3,6 +3,11 @@
   "item.examplemod.raw_ruby": "Raw Ruby",
 
   "block.examplemod.ruby_block": "Block of Ruby",
+  "block.examplemod.raw_ruby_block": "Block of Raw Ruby",
+  "block.examplemod.ruby_ore": "Ruby Ore",
+  "block.examplemod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.examplemod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.examplemod.end_ruby_ore": "End Ruby Ore",
 
   "creativetab.example_tab": "Ruby tab"
 }
